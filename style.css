@@ -65,8 +65,29 @@ ul li {
     margin: 10px 0;
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #f2f2f2;
+footer{
+    margin-top:60px;
+    padding:20px 0;
+    border-top:1px solid #e5e5e5;
+    font-size:14px;
+    color:#666;
+}
+
+.footer-container{
+    max-width:1000px;
+    margin:auto;
+    padding:0 20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.footer-right a{
+    margin-left:20px;
+    text-decoration:none;
+    color:#666;
+}
+
+.footer-right a:hover{
+    text-decoration:underline;
 }
