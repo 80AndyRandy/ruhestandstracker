@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ruhestandtracker.de/sitemap.xml
+Sitemap: https://ruhestandstracker.de/sitemap.xml
