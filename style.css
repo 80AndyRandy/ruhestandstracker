@@ -91,3 +91,19 @@ footer{
 .footer-right a:hover{
     text-decoration:underline;
 }
+.header{
+    display:flex;
+    align-items:center;
+    padding:20px;
+    }
+    
+    .logo{
+    height:40px;
+    margin-right:10px;
+    }
+    
+    .brand{
+    font-size:22px;
+    font-weight:600;
+    color:#1f7a63;
+    }
