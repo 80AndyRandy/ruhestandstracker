@@ -1,8 +1,4 @@
 User-agent: *
 Allow: /
-git add .
-git commit -m "Beschreibung deiner Änderung"
-git push
-
 
 Sitemap: https://ruhestandstracker.de/sitemap.xml
