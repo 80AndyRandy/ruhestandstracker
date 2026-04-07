@@ -168,15 +168,30 @@ body{
     color:#cfe0db;
     }
     
-    .cta button{
-    margin-top:20px;
-    background:white;
-    color:#1f3d36;
-    padding:14px 30px;
-    border:none;
-    border-radius:8px;
-    cursor:pointer;
-    }
+    .cta form{
+        margin-top:20px;
+        display:flex;
+        justify-content:center;
+        gap:10px;
+        flex-wrap:wrap;
+        }
+        
+        .cta input{
+        padding:12px;
+        border-radius:6px;
+        border:none;
+        min-width:250px;
+        font-size:14px;
+        }
+        
+        .cta button{
+        background:white;
+        color:#1f3d36;
+        padding:12px 20px;
+        border:none;
+        border-radius:6px;
+        cursor:pointer;
+        }
     
     /* FOOTER */
     
